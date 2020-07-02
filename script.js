@@ -36,7 +36,3 @@ function max(nr1, nr2){
 
 const number = max(1,4);
 console.log(number);
-
-const m= Math.random();
-console.log(m);
-
